@@ -1,13 +1,13 @@
 ### Olá, eu sou Venilton FalvoJr (falvojr) 👋
 
-✨ **Tech Lead** na [DIO](https://digitalinnovation.one/) e entusiasta de tecnologia e educação.
+✨ **Marketing** na [Fenasbac](https://fenasbac.com.br/) e entusiasta de tecnologia e educação.
 
 🏢 **Atuação Profissional**
-- 🚀 Tech Lead no time de Educação da DIO
-- 🎓 Doutorando em Engenharia de Software no [ICMC-USP](https://www.icmc.usp.br/)
+- 🚀 Marketing da Fenasbac
+- 🎓 MBA Marketing na [Descomplica](https://descomplica.com.br/)
 
 📱 **Especialidades**
-- 📚 Pergunte-me sobre Java, Kotlin e desenvolvimento Mobile para Android!
+- 📚 Pergunte-me sobre Marketing, Pacote Adobe e triathlon🏊‍♂️🚴🏃 !
 
 ### 📊 Estatísticas no GitHub
 
@@ -15,7 +15,7 @@
 
 ### 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
+[![Readme Card](https://github.com/diegolimak/cv_24)
 
 ### 🚀 Linguagens Mais Usadas
 
